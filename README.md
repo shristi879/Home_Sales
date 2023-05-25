@@ -14,9 +14,9 @@ Push your changes to GitHub
 What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
 
----+-------------+
+
 |YEAR|AVERAGE_PRICE|
-+----+-------------+
+
 
 |2022|    296363.88|
 
@@ -32,7 +32,7 @@ What is the average price of a home for each year it was built that has three be
 
 |YEAR|AVERAGE_PRICE|
 
-+----+-------------+
+
 |2017|    292676.79|
 
 |2016|    290555.07|
@@ -54,11 +54,11 @@ What is the average price of a home for each year it was built that has three be
 What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
 
 
-+----------+-------------+
+
 |YEAR_BUILT|AVERAGE_PRICE|
 
 
-+----------+-------------+
+
 |      2017|    280317.58|
 
 |      2016|     293965.1|
@@ -81,7 +81,7 @@ What is the "view" rating for homes costing more than or equal to $350,000? Dete
 |view|AVERAGE_PRICE|
 
 
-+----+-------------+
+
 |  99|   1061201.42|
 
 |  98|   1053739.33|
@@ -122,7 +122,7 @@ What is the "view" rating for homes costing more than or equal to $350,000? Dete
 |  81|   1053472.79|
 
 |  80|    991767.38|
-+----+-------------+
+
  
  Runtime for this query is  0.635796308517456 seconds.
 
