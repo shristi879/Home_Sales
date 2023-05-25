@@ -12,6 +12,8 @@ Push your changes to GitHub
 # Answer the following questions using SparkSQL:
 
 What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
+
+
 ---+-------------+
 |YEAR|AVERAGE_PRICE|
 +----+-------------+
@@ -20,7 +22,10 @@ What is the average price for a four-bedroom house sold for each year? Round off
 |2020|    298353.78|
 |2019|     300263.7|
 
+
 What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
+
+
 |YEAR|AVERAGE_PRICE|
 +----+-------------+
 |2017|    292676.79|
@@ -32,7 +37,11 @@ What is the average price of a home for each year it was built that has three be
 |2011|    291117.47|
 |2010|    292859.62|
 
+
+
 What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
+
+
 +----------+-------------+
 |YEAR_BUILT|AVERAGE_PRICE|
 +----------+-------------+
@@ -46,6 +55,8 @@ What is the average price of a home for each year that has three bedrooms, three
 |      2010|    285010.22|
 
 What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
+
+
 |view|AVERAGE_PRICE|
 +----+-------------+
 |  99|   1061201.42|
@@ -71,6 +82,7 @@ What is the "view" rating for homes costing more than or equal to $350,000? Dete
 +----+-------------+
  
  Runtime for this query is  0.635796308517456 seconds.
+
 
 
 # References
