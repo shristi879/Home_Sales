@@ -17,6 +17,7 @@ What is the average price for a four-bedroom house sold for each year? Round off
 ---+-------------+
 |YEAR|AVERAGE_PRICE|
 +----+-------------+
+
 |2022|    296363.88|
 |2021|    301819.44|
 |2020|    298353.78|
@@ -27,6 +28,7 @@ What is the average price of a home for each year it was built that has three be
 
 
 |YEAR|AVERAGE_PRICE|
+
 +----+-------------+
 |2017|    292676.79|
 |2016|    290555.07|
@@ -44,6 +46,8 @@ What is the average price of a home for each year that has three bedrooms, three
 
 +----------+-------------+
 |YEAR_BUILT|AVERAGE_PRICE|
+
+
 +----------+-------------+
 |      2017|    280317.58|
 |      2016|     293965.1|
@@ -58,6 +62,8 @@ What is the "view" rating for homes costing more than or equal to $350,000? Dete
 
 
 |view|AVERAGE_PRICE|
+
+
 +----+-------------+
 |  99|   1061201.42|
 |  98|   1053739.33|
